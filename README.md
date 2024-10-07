@@ -8,7 +8,7 @@ I'm a Back-End Engineering student, Pharmacist, and Public Health Researcher wit
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Back-end Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 🌱 I’m currently learning HTML, CSS, JavaScript and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Front-end Engineer, Health Tech or Tech Administrative roles (Intern or Junior level).
 - 📫 You can contact me by emailing yetami_jewel@yahoo.com.
